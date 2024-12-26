@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHantasm111&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=PHantasm111&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHantasm111&theme=ambient_gradient&hide_border=false" />
 </div>
